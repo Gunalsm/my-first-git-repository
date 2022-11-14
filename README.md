@@ -1,3 +1,3 @@
 # my-first-git-repository
 
-README.md file is just edited manually. This filw was modified locally
+This line was modified manually during merge resolution
